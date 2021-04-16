@@ -29,4 +29,9 @@ I am a video editor recently converted to development. At the moment I am enroll
 - Making illustrations
 - Making music
 
+### Languages
+- Italian
+- English
+- Dutch
+- French
 [![Bermarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=bermarte&font=lato)](https://github.com/bermarte/github-readme-stats)
