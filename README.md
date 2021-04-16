@@ -1,4 +1,5 @@
 # say-hello-bermarte
+![profile](./img/profile.jpg)
 
 ## Bernardo Martelli (Bermarte)
 
@@ -14,6 +15,7 @@ I am a video editor recently converted to development. At the moment I am enroll
 - https://github.com/bermarte
 - https://www.deviantart.com/bermarte
 - https://codepen.io/Bermarte
+- https://www.flickr.com/photos/bermarte/
 
 ### education
 - University of Bologna (Master in Philosophy)
@@ -22,3 +24,9 @@ I am a video editor recently converted to development. At the moment I am enroll
 ### skills
 - Web development
 - 3D animation
+
+### interests
+- Making illustrations
+- Making music
+
+[![Bermarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=bermarte&font=lato)](https://github.com/bermarte/github-readme-stats)
