@@ -7,9 +7,9 @@ I am a video editor recently converted to development. At the moment I am enroll
 
 ## About me
 ### info
-- Markgravelei 104 2018 Antwerpen Belgium
-- +32 478 200537
-- bernardo.martelli@gmail.com
+- :house: Markgravelei 104 2018 Antwerpen Belgium
+- :phone: +32 478 200537
+- :postal_horn: bernardo.martelli@gmail.com
 ### social
 - https://be.linkedin.com/in/bernardo-martelli
 - https://github.com/bermarte
